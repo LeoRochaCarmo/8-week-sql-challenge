@@ -1,0 +1,2 @@
+-- What is the total items and amount spent for each member before they became a member?
+-- Qual é o total de itens e quantia gasta por cada membro depois que se tornaram membros?
